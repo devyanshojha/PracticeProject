@@ -1,1 +1,3 @@
 my.greeting: Hello from spring-cloud-config-server Microservice Specific file
+
+server.port: 8877
