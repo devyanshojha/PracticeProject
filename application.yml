@@ -1,12 +1,12 @@
 my:
-  greeting: Hello World
+  greeting: Hello World from config server
 
 app:
-   name: MyApp
+   name: MyAppFromConfigServer
    description: Welcome to ${app.name}
 
 db:
-  connection: "{connectionString:  'http----'}"
+  connection: "{connectionString:  'http----config-server'}"
   host: 127.0.0.1
   port: 1200
 
