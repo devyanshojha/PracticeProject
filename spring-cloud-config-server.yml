@@ -1,3 +1,3 @@
-my.greeting: Updated By Dev once again Hello from spring-cloud-config-server Microservice Specific file
+my.greeting: Once again Hello from spring-cloud-config-server Microservice Specific file
 
 server.port: 8855
